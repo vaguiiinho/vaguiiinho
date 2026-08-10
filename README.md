@@ -51,7 +51,7 @@ Tenho mais de 10 anos de experiência em tecnologia, atuando também com redes e
 Confira meus principais projetos e estudos no meu GitHub.
 
 🌐 **Portfólio:**  
-https://portifolio.kangaroo-tech.net/
+https://portfolio.kangaroo-tech.net/
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/vagner-silv4
